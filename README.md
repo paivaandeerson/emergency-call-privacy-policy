@@ -1,3 +1,68 @@
+**Privacy Policy**
+
+Last updated: March 2026
+
+Emergency is developed by Anderson Paiva.
+
+Information Collection and Use
+
+The application is designed to provide quick access to emergency phone numbers.
+
+The application does not require user registration.
+
+The application does not collect personally identifiable information such as:
+
+Name
+Email address
+Phone number
+Home address
+**Device Permissions**
+
+The application may request permission to initiate phone calls so users can contact emergency services directly.
+
+This permission is used solely for this purpose.
+
+**Third-Party Services**
+
+The application may use third-party services including:
+
+Google Play Services
+Expo
+
+These services may collect technical information according to their own privacy policies.
+
+**Analytics and Crash Reporting**
+
+The application does not intentionally collect analytics data from users.
+
+If crash reporting services are enabled by platform providers, technical diagnostic information may be collected automatically.
+
+**Data Sharing**
+
+The application does not sell, rent, or share personal user information with third parties.
+
+**Children's Privacy**
+
+The application does not knowingly collect personal information from children.
+
+**Security**
+
+Reasonable measures are taken to protect the application and its operation.
+
+**Changes to This Privacy Policy**
+
+This Privacy Policy may be updated periodically.
+
+Any updates will be published on this page.
+
+**Contact**
+
+If you have any questions regarding this Privacy Policy, contact:
+
+contato.andersonpaiva@outlook.com
+
+------------------------------------------------------------------------------------
+
 **Terms & Conditions**  
 
 These terms and conditions apply _to_ the Emergency app (hereby referred _to_ as "Application") _for_ mobile devices that was created by AndersonP (hereby referred _to_ as "Service Provider") as a Freemium service.
